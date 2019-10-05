@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "95aafd3f-f0fd-476b-95b4-b20487bfc8bf",
+            "Value": {
+                "id": "15adea1d-71dc-4879-898d-a758890607b5",
+                "resourcePath": "sprites\\MIKA\\MIKA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a37eb1f6-13b2-4ad3-a7a9-6c761a787f21",
             "Value": {
                 "id": "7a940e1d-ff53-4dd4-ab99-1282b811b0bb",
