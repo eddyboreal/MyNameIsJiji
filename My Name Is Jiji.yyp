@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "2d3e4262-5656-4cb4-bfca-c17040d4c35e",
+            "Value": {
+                "id": "ca4eceb7-eaf2-40bf-9023-273b5a63b185",
+                "resourcePath": "objects\\obj_ponton_provisoire\\obj_ponton_provisoire.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4ce7eedd-c501-4770-82b0-deede0be49c4",
+            "Value": {
+                "id": "1babc5c3-b947-46f4-a9c9-ac055e7d800a",
+                "resourcePath": "sprites\\spr_fisherman\\spr_fisherman.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "608a65b5-eda9-4dad-8f46-c5239431733f",
             "Value": {
                 "id": "1557ba09-6f75-4776-a5f7-749382a70bd7",
@@ -183,11 +199,19 @@
             }
         },
         {
-            "Key": "f13a5ec1-8fc1-4af3-a259-189e5d6b47c8",
+            "Key": "e4b336ba-c357-459c-bad7-7c6cf83c89ed",
             "Value": {
-                "id": "904559f2-0046-4134-9aac-b1ab562aebbd",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "id": "a178e952-6166-48a1-889a-2eb9334f217d",
+                "resourcePath": "sprites\\spr_ponton_provisoire\\spr_ponton_provisoire.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eed67a83-e161-4969-a790-8db194b1769b",
+            "Value": {
+                "id": "2d83001b-5959-4f6e-9f25-0f3a134dfae1",
+                "resourcePath": "objects\\obj_fisherman\\obj_fisherman.yy",
+                "resourceType": "GMObject"
             }
         },
         {
