@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1e4df168-66d8-4d37-ae19-dc1e7cd059e8",
+            "Value": {
+                "id": "243432bd-9e02-4d32-abd3-aef1330b43df",
+                "resourcePath": "fonts\\f_sign\\f_sign.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "20bd0864-9be4-4681-9f79-cd40d67549e2",
             "Value": {
                 "id": "a422fa6d-aea4-4b44-abcd-4173c6fea94d",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "9ea4691a-950b-4ba3-a239-e28ec92d011a",
+            "Value": {
+                "id": "0a07a3b8-3649-4a5b-a921-6c92c0b54a84",
+                "resourcePath": "scripts\\DrawSetText\\DrawSetText.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a37eb1f6-13b2-4ad3-a7a9-6c761a787f21",
             "Value": {
                 "id": "7a940e1d-ff53-4dd4-ab99-1282b811b0bb",
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "d1adf2af-ea89-426d-ac10-cc8b6971b4cc",
+            "Value": {
+                "id": "4b932c60-179f-4fda-ab2b-e56585ec8291",
+                "resourcePath": "objects\\obj_text\\obj_text.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e009c3c3-aaf9-46ba-a656-960e442aaf9d",
             "Value": {
                 "id": "18617083-5e89-4832-999c-bd923e49ffb7",
@@ -287,6 +311,14 @@
             }
         },
         {
+            "Key": "f9cd32bc-3353-4f25-80b1-37bdd376b98a",
+            "Value": {
+                "id": "1f3940df-e357-4de0-8c91-b71f99717c7d",
+                "resourcePath": "sprites\\spr_marker\\spr_marker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fe276fe6-30f7-44b4-9bcb-e122c7306adc",
             "Value": {
                 "id": "c8a1d7b4-2526-47f5-bf8f-d1f5f200127b",
@@ -304,7 +336,7 @@
         }
     ],
     "script_order": [
-        
+        "9ea4691a-950b-4ba3-a239-e28ec92d011a"
     ],
     "tutorial": ""
 }
