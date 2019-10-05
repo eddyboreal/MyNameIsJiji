@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0218f302-87d7-4acb-80c8-fabe7804277a",
-            "Value": {
-                "id": "00554189-325b-4a2b-aafb-944e4b495dbd",
-                "resourcePath": "objects\\object6\\object6.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "041484c4-f8fa-4a95-a335-0593a592110d",
             "Value": {
                 "id": "9f57492b-c755-48fa-b6ff-cdc2a4577207",
@@ -199,14 +191,6 @@
             }
         },
         {
-            "Key": "afb55a16-339c-41a3-9492-1efc9b2632ae",
-            "Value": {
-                "id": "64e037b7-66ab-4c4b-b91e-fc7bfb82fc62",
-                "resourcePath": "objects\\object5\\object5.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b10f7990-822e-4fb9-8b3a-b3fe8f90c8c8",
             "Value": {
                 "id": "006bcc35-f222-433d-ad9a-3935f6c79fcf",
@@ -299,14 +283,6 @@
             "Value": {
                 "id": "2d83001b-5959-4f6e-9f25-0f3a134dfae1",
                 "resourcePath": "objects\\obj_fisherman\\obj_fisherman.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "fe088711-7eef-4f89-a868-f3f25a310d60",
-            "Value": {
-                "id": "6b0b5aa7-febc-4b62-bbef-f3fbd9a82ba1",
-                "resourcePath": "objects\\MIKADUMMY\\MIKADUMMY.yy",
                 "resourceType": "GMObject"
             }
         },
