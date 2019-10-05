@@ -2,13 +2,17 @@
 {
     "name": "room0",
     "id": "7b2507fd-9ec1-46d1-af60-042e4ace0cda",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
         "a16270c6-e49d-4432-bb25-8582e4da998c",
-        "9a79a179-6d7a-42f1-b843-1e874c14f803"
+        "9a79a179-6d7a-42f1-b843-1e874c14f803",
+        "89467f63-96aa-479f-94ef-a801a195ad21",
+        "5aa1c9ab-83d7-4897-b9d1-5f2114345149",
+        "6a4729f2-7d53-4bff-a04b-ab5499bf0ffc",
+        "7edd902d-c72d-463a-9852-cd5cf0a7b9f4"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,7 +30,11 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_546D5A80","id": "9a79a179-6d7a-42f1-b843-1e874c14f803","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_546D5A80","objId": "eed67a83-e161-4969-a790-8db194b1769b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 2,"mvc": "1.1","x": 576,"y": 480}
+{"name": "inst_546D5A80","id": "9a79a179-6d7a-42f1-b843-1e874c14f803","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_546D5A80","objId": "eed67a83-e161-4969-a790-8db194b1769b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 2,"mvc": "1.1","x": 576,"y": 480},
+{"name": "inst_51EF310","id": "89467f63-96aa-479f-94ef-a801a195ad21","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_51EF310","objId": "353f02a7-b05c-4ef1-be24-a6d7923cd9b3","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 96,"y": 480},
+{"name": "inst_369E2237","id": "5aa1c9ab-83d7-4897-b9d1-5f2114345149","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_369E2237","objId": "2d3e4262-5656-4cb4-bfca-c17040d4c35e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 2,"mvc": "1.1","x": 416,"y": 704},
+{"name": "inst_255F91E1","id": "6a4729f2-7d53-4bff-a04b-ab5499bf0ffc","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_255F91E1","objId": "2d3e4262-5656-4cb4-bfca-c17040d4c35e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 256,"y": 896},
+{"name": "inst_1A37067D","id": "7edd902d-c72d-463a-9852-cd5cf0a7b9f4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_1A37067D","objId": "2d3e4262-5656-4cb4-bfca-c17040d4c35e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 608,"y": 1024}
             ],
             "layers": [
 
