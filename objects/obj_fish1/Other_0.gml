@@ -1,0 +1,2 @@
+self.x = room_width - self.x;
+with(other) path_start(path_fishes, 0.25, path_action_stop, false);
