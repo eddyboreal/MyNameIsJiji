@@ -71,11 +71,35 @@
             }
         },
         {
+            "Key": "07dafda7-0515-4bf8-9b97-7a6119eeeb82",
+            "Value": {
+                "id": "911eabce-5eee-4a31-b615-2dbcc0050dbd",
+                "resourcePath": "scripts\\ReadLetterOpti\\ReadLetterOpti.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0f032f98-ef50-4991-af93-d976fd261ac6",
             "Value": {
                 "id": "999471b7-591d-4558-a561-663ece0f96fd",
-                "resourcePath": "sprites\\sprite33\\sprite33.yy",
+                "resourcePath": "sprites\\spr_bgordi\\spr_bgordi.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1023ecea-dc97-47bf-87f0-51eeb967378d",
+            "Value": {
+                "id": "da31f4eb-496d-4fa4-acf9-c4fabd2e236a",
+                "resourcePath": "objects\\obj_SpotLettre\\obj_SpotLettre.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "10b0231c-db9e-4a7f-8756-1af0384def98",
+            "Value": {
+                "id": "f15649e7-533b-4de4-9ef0-5c18d2e6db63",
+                "resourcePath": "scripts\\ReadLetter\\ReadLetter.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "2c3170b0-1bda-41b1-b22e-163b982f8962",
+            "Value": {
+                "id": "8552f769-8967-4ca3-8fe9-b0bebd1541a8",
+                "resourcePath": "sprites\\spr_SpotMorseLettreNO\\spr_SpotMorseLettreNO.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2d3e4262-5656-4cb4-bfca-c17040d4c35e",
             "Value": {
                 "id": "ca4eceb7-eaf2-40bf-9023-273b5a63b185",
@@ -210,8 +242,16 @@
             "Key": "3c7debf8-8ed6-4285-b636-657552c5ef96",
             "Value": {
                 "id": "7b3e0e76-ddb1-4332-952d-0fc95b66627d",
-                "resourcePath": "objects\\object28\\object28.yy",
+                "resourcePath": "objects\\obj_ordi\\obj_ordi.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3e48e583-b09d-49cf-a778-ce4fc538cb48",
+            "Value": {
+                "id": "c206e3b9-f212-4b14-814a-8520c717bc4a",
+                "resourcePath": "sprites\\spr_SpotMorseLettre\\spr_SpotMorseLettre.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -244,6 +284,14 @@
                 "id": "1babc5c3-b947-46f4-a9c9-ac055e7d800a",
                 "resourcePath": "sprites\\spr_fisherman\\spr_fisherman.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4f57f0e6-2d3a-47aa-bfb6-f32d22ee0f2b",
+            "Value": {
+                "id": "e6dbc817-a696-486d-a51c-edeb722a92a0",
+                "resourcePath": "objects\\obj_General\\obj_General.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -407,6 +455,14 @@
             }
         },
         {
+            "Key": "7d96ed48-93bb-49cb-a775-9c6380682a1a",
+            "Value": {
+                "id": "d54849b4-cd77-4335-a7d2-908474cdfab5",
+                "resourcePath": "objects\\obj_MorseCourt\\obj_MorseCourt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81c031fb-72d3-4c0e-be12-a7dc2b83d623",
             "Value": {
                 "id": "a8eaffd9-b865-4e22-b2c8-2764d6e61733",
@@ -447,11 +503,27 @@
             }
         },
         {
+            "Key": "893dd573-a874-4bb7-befc-02c75bef8c50",
+            "Value": {
+                "id": "8cd88661-7c95-4c03-8a70-b22649cf7b57",
+                "resourcePath": "sprites\\spr_SpotMorseLettreOK\\spr_SpotMorseLettreOK.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8ba36520-c8f3-41d4-b60f-53de161c413d",
             "Value": {
                 "id": "ab347e60-8875-4cfc-ab36-87d00c7fd8d9",
                 "resourcePath": "views\\8ba36520-c8f3-41d4-b60f-53de161c413d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8edb3b42-309e-4a2c-861b-3a249bc4d501",
+            "Value": {
+                "id": "1669bc32-6f89-4b17-89c6-d21ade3373ac",
+                "resourcePath": "scripts\\ResetTab\\ResetTab.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -467,6 +539,14 @@
             "Value": {
                 "id": "75176642-9e28-41eb-91e9-7616c7828941",
                 "resourcePath": "objects\\obj_bait\\obj_bait.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "964c4735-bec4-42a2-8182-f13900c72c33",
+            "Value": {
+                "id": "bce456b0-246f-4099-aea5-1a1a3605fcd2",
+                "resourcePath": "objects\\obj_MorseLong\\obj_MorseLong.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -503,11 +583,27 @@
             }
         },
         {
+            "Key": "9c8a9faa-cf74-4ccd-9998-b599a67551af",
+            "Value": {
+                "id": "bd6ec318-87cf-4419-9f24-5e88e0e45aa7",
+                "resourcePath": "objects\\obj_MorseSpaceBar\\obj_MorseSpaceBar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9ea4691a-950b-4ba3-a239-e28ec92d011a",
             "Value": {
                 "id": "0a07a3b8-3649-4a5b-a921-6c92c0b54a84",
                 "resourcePath": "scripts\\DrawSetText\\DrawSetText.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9fc5de1f-b1b4-4c79-911d-daf2528fb5b6",
+            "Value": {
+                "id": "673a3e22-e5ce-41fe-b6fe-2aff60cafe24",
+                "resourcePath": "sprites\\spr_MorseSpaceBar\\spr_MorseSpaceBar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -639,6 +735,14 @@
             }
         },
         {
+            "Key": "c569ac2e-5689-4f36-97b2-d91b760d17d2",
+            "Value": {
+                "id": "011e7fd7-c773-4348-bb5d-b2d5308647c7",
+                "resourcePath": "sprites\\spr_SpotMorseMotsOK\\spr_SpotMorseMotsOK.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6273157-ca1e-40d9-aa05-bf1410bd840f",
             "Value": {
                 "id": "9bdddc31-9fef-421a-830a-44fde95ac286",
@@ -676,6 +780,14 @@
                 "id": "ccc84e03-0a4b-46dc-a568-53dd455bb2d0",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf151b8c-353d-4856-839e-20088686ce83",
+            "Value": {
+                "id": "331ad42c-d7db-4030-af5b-ee49fe257724",
+                "resourcePath": "views\\cf151b8c-353d-4856-839e-20088686ce83.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -759,6 +871,14 @@
             }
         },
         {
+            "Key": "e2c1b423-b67b-4085-8c31-5a23ab365872",
+            "Value": {
+                "id": "ab153a64-f641-4d11-ab6f-0cb11a89ea1a",
+                "resourcePath": "sprites\\spr_SpotMorseMots\\spr_SpotMorseMots.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e326fcbb-5e5d-4806-aa71-0153808fe117",
             "Value": {
                 "id": "9871a3c2-f42f-4f33-9878-132a6764c51f",
@@ -795,6 +915,14 @@
             "Value": {
                 "id": "2d83001b-5959-4f6e-9f25-0f3a134dfae1",
                 "resourcePath": "objects\\obj_fisherman\\obj_fisherman.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f08a0ba1-cce6-465c-b22a-66be69b63960",
+            "Value": {
+                "id": "43d4da04-91c0-4ddf-aee9-34c7f4a6768a",
+                "resourcePath": "objects\\obj_spot\\obj_spot.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -843,7 +971,10 @@
         "55f5ff9b-31fb-4670-a15d-c24711df1e00",
         "de06115a-8d8c-4011-b2bb-b380a304deb0",
         "b2fa0d42-e994-4b4d-b7ce-0b28a7d7392f",
-        "9ea4691a-950b-4ba3-a239-e28ec92d011a"
+        "9ea4691a-950b-4ba3-a239-e28ec92d011a",
+        "10b0231c-db9e-4a7f-8756-1af0384def98",
+        "07dafda7-0515-4bf8-9b97-7a6119eeeb82",
+        "8edb3b42-309e-4a2c-861b-3a249bc4d501"
     ],
     "tutorial": ""
 }
