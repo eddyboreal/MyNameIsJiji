@@ -1,0 +1,1 @@
+self.y = irandom_range(self.y + 1, self.y - 1);
