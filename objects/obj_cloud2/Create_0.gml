@@ -1,0 +1,1 @@
+with(other) path_start(path_clouds, 0.5, path_action_stop, false);
