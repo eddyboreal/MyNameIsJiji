@@ -11,8 +11,7 @@
         "0218f302-87d7-4acb-80c8-fabe7804277a",
         "90e80f97-260d-4bb8-8142-a6bd092ea994",
         "200cb56f-95fb-410f-8c6c-6c0495a382ef",
-        "1ecb84e9-8e6b-476c-a63e-98712bb342a6",
-        "3c7debf8-8ed6-4285-b636-657552c5ef96"
+        "1ecb84e9-8e6b-476c-a63e-98712bb342a6"
     ],
     "filterType": "GMObject",
     "folderName": "Décors",

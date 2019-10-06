@@ -1,19 +1,10 @@
 {
-    "id": "f230e5a9-523b-4916-b5f3-74ad29435039",
+    "id": "a3053d25-d41c-4110-855e-e1c375d90fed",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_submarine",
+    "name": "obj_scalingfish2",
     "eventList": [
-        {
-            "id": "8ce959f5-1f7d-4864-a9f1-89cbcb56eb77",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "f230e5a9-523b-4916-b5f3-74ad29435039"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "76136a1a-dbe5-4776-8491-9f24d5a51278",
-    "visible": true
+    "spriteId": "f22227ca-74b0-4aef-9d09-e93234f98edb",
+    "visible": false
 }

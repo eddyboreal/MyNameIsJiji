@@ -207,14 +207,6 @@
             }
         },
         {
-            "Key": "3c7debf8-8ed6-4285-b636-657552c5ef96",
-            "Value": {
-                "id": "7b3e0e76-ddb1-4332-952d-0fc95b66627d",
-                "resourcePath": "objects\\object28\\object28.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "40f3a99d-5314-491e-a93b-b9cc4250cd8d",
             "Value": {
                 "id": "c42f481e-6d98-42c3-b4f8-35e5300ac136",
@@ -243,6 +235,14 @@
             "Value": {
                 "id": "a83c385d-6a35-403b-9cde-890a3046fabe",
                 "resourcePath": "objects\\obj_rosalie\\obj_rosalie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "49cdcf43-4de0-4c67-8a68-c873016abcd1",
+            "Value": {
+                "id": "f5c46b85-655b-4af7-83c9-e1bcccbb5c88",
+                "resourcePath": "objects\\obj_scalingfish1\\obj_scalingfish1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -535,6 +535,14 @@
             }
         },
         {
+            "Key": "a3053d25-d41c-4110-855e-e1c375d90fed",
+            "Value": {
+                "id": "34729498-c42c-4ac2-9326-768064a7ab8b",
+                "resourcePath": "objects\\obj_scalingfish2\\obj_scalingfish2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a37eb1f6-13b2-4ad3-a7a9-6c761a787f21",
             "Value": {
                 "id": "7a940e1d-ff53-4dd4-ab99-1282b811b0bb",
@@ -812,6 +820,14 @@
                 "id": "2d83001b-5959-4f6e-9f25-0f3a134dfae1",
                 "resourcePath": "objects\\obj_fisherman\\obj_fisherman.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f22227ca-74b0-4aef-9d09-e93234f98edb",
+            "Value": {
+                "id": "d0acee87-9235-4f49-a5d5-1470b5535810",
+                "resourcePath": "sprites\\spr_scalingfish1\\spr_scalingfish1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
