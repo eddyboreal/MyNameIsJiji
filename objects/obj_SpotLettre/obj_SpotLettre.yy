@@ -1,8 +1,8 @@
 {
-    "id": "49cdcf43-4de0-4c67-8a68-c873016abcd1",
+    "id": "1023ecea-dc97-47bf-87f0-51eeb967378d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_scalingfish1",
+    "name": "obj_SpotLettre",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f22227ca-74b0-4aef-9d09-e93234f98edb",
-    "visible": false
+    "spriteId": "e2c1b423-b67b-4085-8c31-5a23ab365872",
+    "visible": true
 }

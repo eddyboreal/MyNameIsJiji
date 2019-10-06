@@ -1,8 +1,8 @@
 {
-    "id": "49cdcf43-4de0-4c67-8a68-c873016abcd1",
+    "id": "7d96ed48-93bb-49cb-a775-9c6380682a1a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_scalingfish1",
+    "name": "obj_MorseCourt",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f22227ca-74b0-4aef-9d09-e93234f98edb",
-    "visible": false
+    "spriteId": "97d69f06-95de-4630-94c3-6d4d6db49f7c",
+    "visible": true
 }
