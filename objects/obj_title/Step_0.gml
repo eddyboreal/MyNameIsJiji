@@ -1,0 +1,1 @@
+if (keyboard_check(vk_right)) sprite_index = spr_title2;
