@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "61f9adbc-184c-4d6d-a362-6eb0fea1bbf7",
+            "Value": {
+                "id": "9eb195c8-fc16-4c6b-a148-9f8c3043b9f5",
+                "resourcePath": "objects\\obj_AfficheMorse1\\obj_AfficheMorse1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "66e65a68-654b-4119-9cff-19206021bb44",
             "Value": {
                 "id": "bc17dd7f-0ea0-460f-939d-e39168772545",
@@ -508,6 +516,14 @@
                 "id": "c8ce8afd-fbec-4265-a0df-060f2b7b3f4a",
                 "resourcePath": "objects\\obj_pontoon2\\obj_pontoon2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "83f5f38e-9927-41e9-af3f-83bd1bbb80bb",
+            "Value": {
+                "id": "f1964c05-4f6e-4d01-995e-262e60f4da92",
+                "resourcePath": "sprites\\sprite42\\sprite42.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

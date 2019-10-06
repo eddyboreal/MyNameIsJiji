@@ -10,3 +10,9 @@ global.tabV = [0,0,0,1,-1,-1];
 global.tabE = [0,-1,-1,-1,-1,-1];
 global.tabU = [0,0,1,-1,-1,-1];
 
+global.tabCaseMorse = array_create(18);
+
+for(i=1;i<=18;i++){
+	tabCaseMorse[i-1] = asset_get_index("obj_AfficheMorse"+string(i));
+} 
+
