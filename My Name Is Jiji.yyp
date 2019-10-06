@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "5172f6af-1283-4de2-9dac-3597cfbf48b4",
+            "Value": {
+                "id": "d376276d-abaf-4d3e-9b06-faec280cbb40",
+                "resourcePath": "paths\\path_fish2\\path_fish2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "53f9bc2c-c6d9-4c96-983a-d358b66cab36",
             "Value": {
                 "id": "4f7707ae-5401-4cbf-88ee-8eb3432bcad5",
