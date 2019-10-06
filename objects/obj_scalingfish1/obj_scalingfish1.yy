@@ -1,19 +1,10 @@
 {
-    "id": "02c7da35-f373-416f-8971-42ff41fb81da",
+    "id": "49cdcf43-4de0-4c67-8a68-c873016abcd1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_rod",
+    "name": "obj_scalingfish1",
     "eventList": [
-        {
-            "id": "2138b558-f5b5-4af7-aa19-e8c73de8e35b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "02c7da35-f373-416f-8971-42ff41fb81da"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5fc239df-1236-4359-ae3e-1394a2e6a8c5",
-    "visible": true
+    "spriteId": "f22227ca-74b0-4aef-9d09-e93234f98edb",
+    "visible": false
 }

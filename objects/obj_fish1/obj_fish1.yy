@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_fish1",
     "eventList": [
-        
+        {
+            "id": "0d54a014-53f9-492e-a30d-1db85fc27c24",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "81c22979-5399-4613-a65b-e33a9ca56ed6"
+        },
+        {
+            "id": "52ffb74f-8b37-467f-83f2-a66efba76406",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "81c22979-5399-4613-a65b-e33a9ca56ed6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

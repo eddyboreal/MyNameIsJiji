@@ -22,7 +22,8 @@
         "1ba23dea-07f4-49ab-b632-ac7f40eda6b0",
         "baefc24c-c4ec-4647-abd6-3da0b9e55454",
         "121186eb-93e0-4257-b91b-5e121b30eb10",
-        "7c1e7097-db32-4921-a668-81c87508426a"
+        "7c1e7097-db32-4921-a668-81c87508426a",
+        "9e4a75f5-66c0-4169-8527-194fe2bfe778"
     ],
     "filterType": "GMSprite",
     "folderName": "Décors",

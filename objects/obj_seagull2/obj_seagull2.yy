@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_seagull2",
     "eventList": [
-        
+        {
+            "id": "a11bdf2e-4260-4a93-ad75-0b44683d380a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6ccf1f71-bc2c-4a26-aaa0-be66eceb930e"
+        },
+        {
+            "id": "bcc1f461-007e-4414-9c58-42f1b1c11d03",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 7,
+            "m_owner": "6ccf1f71-bc2c-4a26-aaa0-be66eceb930e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
