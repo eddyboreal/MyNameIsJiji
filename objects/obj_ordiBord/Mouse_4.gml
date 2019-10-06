@@ -1,4 +1,4 @@
-if(statut ==  1)
+if(statut == 1)
 {
-		room_goto_next();
+	next = 1;
 }
