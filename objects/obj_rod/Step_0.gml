@@ -1,4 +1,4 @@
-if (keyboard_check(ord("I"))) {
+if (obj_ligne.Animating) {
 	image_speed = 6;
 }
 else {

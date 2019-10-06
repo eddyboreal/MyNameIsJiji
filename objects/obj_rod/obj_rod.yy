@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_rod",
     "eventList": [
-        
+        {
+            "id": "2138b558-f5b5-4af7-aa19-e8c73de8e35b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "02c7da35-f373-416f-8971-42ff41fb81da"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
