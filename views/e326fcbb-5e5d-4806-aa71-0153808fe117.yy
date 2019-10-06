@@ -15,7 +15,14 @@
         "d84e496e-303a-48fd-9674-b2e58b003b0e",
         "d962eaf6-46ba-4913-906a-eef78956e935",
         "affebc2f-dec6-4d48-a4da-18105ea540c6",
-        "e4b336ba-c357-459c-bad7-7c6cf83c89ed"
+        "e4b336ba-c357-459c-bad7-7c6cf83c89ed",
+        "66e65a68-654b-4119-9cff-19206021bb44",
+        "e198e559-5767-47f3-aa47-7d173cbd1519",
+        "d70e0570-5dcf-4ab6-ad83-a379658ee23c",
+        "1ba23dea-07f4-49ab-b632-ac7f40eda6b0",
+        "baefc24c-c4ec-4647-abd6-3da0b9e55454",
+        "121186eb-93e0-4257-b91b-5e121b30eb10",
+        "7c1e7097-db32-4921-a668-81c87508426a"
     ],
     "filterType": "GMSprite",
     "folderName": "Décors",

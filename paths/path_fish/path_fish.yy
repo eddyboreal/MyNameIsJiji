@@ -12,7 +12,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 64,
-            "y": 1056,
+            "y": 960,
             "speed": 100
         },
         {
@@ -20,15 +20,15 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 256,
-            "y": 1024,
+            "y": 896,
             "speed": 100
         },
         {
             "id": "f2ce2ceb-e4a7-44c3-9165-1b47ab70b759",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 544,
-            "y": 1056,
+            "x": 480,
+            "y": 928,
             "speed": 100
         },
         {
@@ -36,39 +36,47 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 544,
-            "y": 1056,
+            "y": 928,
             "speed": 100
         },
         {
             "id": "ec24ba8b-910f-4fbc-a137-4c1bc096c4d0",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 672,
-            "y": 1088,
+            "x": 544,
+            "y": 928,
             "speed": 100
         },
         {
             "id": "23c7b39b-57e2-4b43-9b24-9960317f4d01",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 544,
-            "y": 1152,
+            "x": 672,
+            "y": 960,
             "speed": 100
         },
         {
             "id": "c41c5564-564e-44a0-9de1-ce649ab9b4d1",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 256,
-            "y": 1152,
+            "x": 544,
+            "y": 1024,
             "speed": 100
         },
         {
             "id": "0d2e42e8-7f26-4cd2-a1dc-51872ed64461",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
+            "x": 256,
+            "y": 1024,
+            "speed": 100
+        },
+        {
+            "id": "794d7a1c-482b-4a76-9a7c-ae4a3c734434",
+            "modelName": "GMPathPoint",
+            "mvc": "1.0",
             "x": 64,
-            "y": 1056,
+            "y": 960,
             "speed": 100
         }
     ],
