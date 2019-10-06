@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "55f5ff9b-31fb-4670-a15d-c24711df1e00",
+            "Value": {
+                "id": "2e145380-759e-41b8-8aaa-e49dcfc90cd2",
+                "resourcePath": "scripts\\DrawText\\DrawText.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "608a65b5-eda9-4dad-8f46-c5239431733f",
             "Value": {
                 "id": "1557ba09-6f75-4776-a5f7-749382a70bd7",
@@ -215,14 +223,6 @@
             }
         },
         {
-            "Key": "95aafd3f-f0fd-476b-95b4-b20487bfc8bf",
-            "Value": {
-                "id": "15adea1d-71dc-4879-898d-a758890607b5",
-                "resourcePath": "sprites\\MIKA\\MIKA.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9677776a-1213-4c32-a935-0b737ff31cd4",
             "Value": {
                 "id": "39492d77-1eba-4136-a1bd-24e9292c2701",
@@ -292,6 +292,14 @@
                 "id": "eab2cf32-a436-43c8-9e54-bbd3621ce68b",
                 "resourcePath": "views\\bec4c0c9-04c2-4f4e-b5b5-e87d5ce606ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c2ac1f21-d76a-4a61-97fa-4ac26f17b768",
+            "Value": {
+                "id": "702c467d-72f7-445c-98e2-74b845faa28b",
+                "resourcePath": "sprites\\spr_marker\\spr_marker.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -393,7 +401,8 @@
     ],
     "script_order": [
         "b2fa0d42-e994-4b4d-b7ce-0b28a7d7392f",
-        "9ea4691a-950b-4ba3-a239-e28ec92d011a"
+        "9ea4691a-950b-4ba3-a239-e28ec92d011a",
+        "55f5ff9b-31fb-4670-a15d-c24711df1e00"
     ],
     "tutorial": ""
 }
