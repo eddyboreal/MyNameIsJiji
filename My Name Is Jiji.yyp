@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "95aafd3f-f0fd-476b-95b4-b20487bfc8bf",
-            "Value": {
-                "id": "15adea1d-71dc-4879-898d-a758890607b5",
-                "resourcePath": "sprites\\MIKA\\MIKA.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9677776a-1213-4c32-a935-0b737ff31cd4",
             "Value": {
                 "id": "39492d77-1eba-4136-a1bd-24e9292c2701",
@@ -252,14 +244,6 @@
                 "id": "e359564f-fde9-48e2-ab5a-83626b9c4c5c",
                 "resourcePath": "views\\ab125188-6894-48e8-8fb1-d5725d1a1160.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b10f7990-822e-4fb9-8b3a-b3fe8f90c8c8",
-            "Value": {
-                "id": "006bcc35-f222-433d-ad9a-3935f6c79fcf",
-                "resourcePath": "sprites\\sprite6\\sprite6.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +327,14 @@
             }
         },
         {
+            "Key": "de06115a-8d8c-4011-b2bb-b380a304deb0",
+            "Value": {
+                "id": "692ec310-ed62-4d3a-b0e9-ff92b2e25939",
+                "resourcePath": "scripts\\F_Animate\\F_Animate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e009c3c3-aaf9-46ba-a656-960e442aaf9d",
             "Value": {
                 "id": "18617083-5e89-4832-999c-bd923e49ffb7",
@@ -393,7 +385,8 @@
     ],
     "script_order": [
         "b2fa0d42-e994-4b4d-b7ce-0b28a7d7392f",
-        "9ea4691a-950b-4ba3-a239-e28ec92d011a"
+        "9ea4691a-950b-4ba3-a239-e28ec92d011a",
+        "de06115a-8d8c-4011-b2bb-b380a304deb0"
     ],
     "tutorial": ""
 }
