@@ -7,3 +7,6 @@ timeStacked = 0;
 Animating = false;
 //Is the finishing line animation Finished ?
 AnimationFinished = false;
+
+GoingDown = true;
+trigger = false;
