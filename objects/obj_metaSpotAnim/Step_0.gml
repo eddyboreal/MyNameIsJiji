@@ -14,14 +14,6 @@ if(AnimateSpotMot){
 	DoSpotAnimation(obj_SpotLettre,2,0.5);
 }
 
-/*if(AnimateSpotMot){
-AnimationMotFinished = false;
-	with(obj_SpotLettre){
-		image_index=1;
-		show_debug_message("END");
-	}
-}*/
-
 if(AnimationMotFinished){
 	AnimationMotFinished = false;
 	with(obj_MorseSpaceBar){
@@ -49,4 +41,29 @@ if(AnimationMotFinished){
 			}
 		}
 	}
+}
+
+if(AnimateBigSpot){
+	if(!AnimationBigSpotStarted){
+		AnimationBigSpotStarted = true;
+		with(obj_spot){
+			show_debug_message("changed sprite to NO");
+			sprite_index = spr_SpotMorseLettreNO;
+		}
+	}
+	with(obj_spot){
+		image_speed = 1;
+	}
+	timerLettre += delta_time;
+	if(timerLettre>= 1.5*power(10,6)){
+		AnimateBigSpot = false;
+		AnimationBigSpotStarted = false;
+		timerLettre = 0;
+		with(obj_spot){
+			image_speed = 0;
+			sprite_index = spr_SpotMorseLettre;
+		}
+		
+	}
+	
 }

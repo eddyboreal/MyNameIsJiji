@@ -11,4 +11,7 @@ actualFrame = 0;
 numberOfFrames = 0;
 timer = 0;
 ActualLetter = obj_MorseSpaceBar.ActualLetter;
-show_debug_message("DeLaMerde");
+
+timerLettre = 0;
+AnimateBigSpot = false;
+AnimationBigSpotStarted = false;
