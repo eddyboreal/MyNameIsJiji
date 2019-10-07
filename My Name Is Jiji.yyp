@@ -106,7 +106,7 @@
             "Key": "10927388-6209-46c2-bf38-98b4d1355908",
             "Value": {
                 "id": "c4fb04b6-5ae5-48df-ac7f-11b3c58f0579",
-                "resourcePath": "sprites\\sprite43\\sprite43.yy",
+                "resourcePath": "sprites\\spr_alarm\\spr_alarm.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -292,6 +292,14 @@
                 "id": "c42f481e-6d98-42c3-b4f8-35e5300ac136",
                 "resourcePath": "paths\\path_clouds\\path_clouds.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "4262e1ca-acc0-4919-b928-dc7ba3267c2f",
+            "Value": {
+                "id": "7cd6dc46-9ca1-4339-af87-f57d1b5a0e10",
+                "resourcePath": "sprites\\spr_buttonOff\\spr_buttonOff.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -567,6 +575,14 @@
             }
         },
         {
+            "Key": "8445e75e-ecad-43d9-9e21-c43e967d6a8e",
+            "Value": {
+                "id": "e1be4e4e-4d88-4e06-8eb7-7c17c72b120c",
+                "resourcePath": "sprites\\spr_backgroundWireAngle\\spr_backgroundWireAngle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8528de3e-7d4e-4fde-a6f3-5582eaf1a964",
             "Value": {
                 "id": "27b2be57-e587-4a9d-ae47-99269888f6c9",
@@ -799,6 +815,14 @@
             }
         },
         {
+            "Key": "b5b03d34-4508-41cb-8b86-b851637389cf",
+            "Value": {
+                "id": "71360207-4376-471e-a034-6cbce1ba5418",
+                "resourcePath": "sprites\\spr_buttonOn\\spr_buttonOn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "baefc24c-c4ec-4647-abd6-3da0b9e55454",
             "Value": {
                 "id": "e12fee91-3fef-4580-8049-c844b6411696",
@@ -828,6 +852,14 @@
                 "id": "7abc7561-bdf6-444b-b572-5633fa79ad0e",
                 "resourcePath": "objects\\obj_fadeNext2\\obj_fadeNext2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c28978e0-5098-4796-b946-a648a85fe889",
+            "Value": {
+                "id": "5e5b2b27-fffc-4a76-b3f7-fd9c07e16d17",
+                "resourcePath": "tilesets\\tile_background_wireAngle\\tile_background_wireAngle.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -951,14 +983,6 @@
             }
         },
         {
-            "Key": "d84e496e-303a-48fd-9674-b2e58b003b0e",
-            "Value": {
-                "id": "6f1aac8d-8db7-45fb-8b59-31d0d5b9ece3",
-                "resourcePath": "sprites\\spr_boutton\\spr_boutton.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d962eaf6-46ba-4913-906a-eef78956e935",
             "Value": {
                 "id": "176e15df-8f55-4a06-a655-628acc294012",
@@ -970,7 +994,7 @@
             "Key": "dc9b0b2a-0477-490e-b944-5eafdbb000fd",
             "Value": {
                 "id": "b0612791-6297-42e6-9672-439cbfbb4c7d",
-                "resourcePath": "sprites\\sprite44\\sprite44.yy",
+                "resourcePath": "sprites\\spr_backgroundSol\\spr_backgroundSol.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1059,6 +1083,14 @@
             "Value": {
                 "id": "43d4da04-91c0-4ddf-aee9-34c7f4a6768a",
                 "resourcePath": "objects\\obj_spot\\obj_spot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1b56225-c543-49b3-999e-2b273fdbac37",
+            "Value": {
+                "id": "30455b87-9d23-482c-89b3-d1e6b930a32c",
+                "resourcePath": "objects\\obj_alarm\\obj_alarm.yy",
                 "resourceType": "GMObject"
             }
         },
