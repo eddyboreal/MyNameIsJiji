@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "69577ee1-e9d9-420a-ab6a-24e6027cec4d",
+            "Value": {
+                "id": "100f11fa-4d54-4137-a915-09f30ff696c6",
+                "resourcePath": "objects\\obj_fadeNext21\\obj_fadeNext21.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6ba8fc4f-da5a-4053-beae-68d865ba7561",
             "Value": {
                 "id": "9d3c94ea-234d-4940-976c-a411b7334190",
@@ -663,6 +671,14 @@
             }
         },
         {
+            "Key": "89bd1385-3fd6-4c2b-812c-710a859c75d0",
+            "Value": {
+                "id": "283598fd-f8bb-4950-bea8-4ecfaa2b9940",
+                "resourcePath": "objects\\obj_ordi_room21\\obj_ordi_room21.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8edb3b42-309e-4a2c-861b-3a249bc4d501",
             "Value": {
                 "id": "1669bc32-6f89-4b17-89c6-d21ade3373ac",
@@ -683,6 +699,14 @@
             "Value": {
                 "id": "75176642-9e28-41eb-91e9-7616c7828941",
                 "resourcePath": "objects\\obj_bait\\obj_bait.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9549ad7f-5293-41ba-aa18-315da7e4901e",
+            "Value": {
+                "id": "a58fb861-45c5-4796-9396-499ec08c18db",
+                "resourcePath": "objects\\obj_button_room21\\obj_button_room21.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -863,6 +887,14 @@
             }
         },
         {
+            "Key": "babf0135-bf0f-4084-b86b-ca46d9719216",
+            "Value": {
+                "id": "983e3cc6-aa31-42e5-a924-aa76de95cadb",
+                "resourcePath": "objects\\obj_rosalie_room21\\obj_rosalie_room21.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "baefc24c-c4ec-4647-abd6-3da0b9e55454",
             "Value": {
                 "id": "e12fee91-3fef-4580-8049-c844b6411696",
@@ -876,6 +908,14 @@
                 "id": "e0a08aef-a798-4819-a227-e9e0ca2df5ff",
                 "resourcePath": "views\\be47ed92-07e9-4f92-be20-b7354e4da045.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be928ed2-05dc-4285-8714-0d0d5eac5435",
+            "Value": {
+                "id": "5d48b873-04d3-4d62-aadd-36cc774abb2c",
+                "resourcePath": "sprites\\spr_alarm_light\\spr_alarm_light.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1039,6 +1079,14 @@
             }
         },
         {
+            "Key": "d44bfb80-f462-458d-82ab-7f7533546df3",
+            "Value": {
+                "id": "542bfd3f-b038-4bd9-b7e7-d13778b8079a",
+                "resourcePath": "sprites\\spr_rosalie_falling\\spr_rosalie_falling.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d70e0570-5dcf-4ab6-ad83-a379658ee23c",
             "Value": {
                 "id": "293a1d89-cc63-4b7b-85e2-74ee4797fd35",
@@ -1092,6 +1140,14 @@
                 "id": "18617083-5e89-4832-999c-bd923e49ffb7",
                 "resourcePath": "views\\e009c3c3-aaf9-46ba-a656-960e442aaf9d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e12f592b-0266-4446-ab99-3483bd5fca6a",
+            "Value": {
+                "id": "47a6c23b-6952-4a0e-9ce0-853c5e4eb695",
+                "resourcePath": "rooms\\room21\\room21.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1179,6 +1235,14 @@
             "Value": {
                 "id": "47af65af-5301-4b66-a125-e0ebee2dbdcf",
                 "resourcePath": "objects\\obj_submarine\\obj_submarine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f2917b03-d026-4f79-9135-7360e984a5e3",
+            "Value": {
+                "id": "bb283008-3567-4d2d-81d0-ec17bcf405ef",
+                "resourcePath": "objects\\obj_alarm_light\\obj_alarm_light.yy",
                 "resourceType": "GMObject"
             }
         },
