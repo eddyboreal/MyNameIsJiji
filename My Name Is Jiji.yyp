@@ -106,7 +106,7 @@
             "Key": "10927388-6209-46c2-bf38-98b4d1355908",
             "Value": {
                 "id": "c4fb04b6-5ae5-48df-ac7f-11b3c58f0579",
-                "resourcePath": "sprites\\sprite43\\sprite43.yy",
+                "resourcePath": "sprites\\spr_alarm\\spr_alarm.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -567,6 +567,14 @@
             }
         },
         {
+            "Key": "8445e75e-ecad-43d9-9e21-c43e967d6a8e",
+            "Value": {
+                "id": "e1be4e4e-4d88-4e06-8eb7-7c17c72b120c",
+                "resourcePath": "sprites\\spr_backgroundWireAngle\\spr_backgroundWireAngle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8528de3e-7d4e-4fde-a6f3-5582eaf1a964",
             "Value": {
                 "id": "27b2be57-e587-4a9d-ae47-99269888f6c9",
@@ -831,6 +839,14 @@
             }
         },
         {
+            "Key": "c28978e0-5098-4796-b946-a648a85fe889",
+            "Value": {
+                "id": "5e5b2b27-fffc-4a76-b3f7-fd9c07e16d17",
+                "resourcePath": "tilesets\\tile_background_wireAngle\\tile_background_wireAngle.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "c2ac1f21-d76a-4a61-97fa-4ac26f17b768",
             "Value": {
                 "id": "702c467d-72f7-445c-98e2-74b845faa28b",
@@ -962,7 +978,7 @@
             "Key": "dc9b0b2a-0477-490e-b944-5eafdbb000fd",
             "Value": {
                 "id": "b0612791-6297-42e6-9672-439cbfbb4c7d",
-                "resourcePath": "sprites\\sprite44\\sprite44.yy",
+                "resourcePath": "sprites\\spr_backgroundSol\\spr_backgroundSol.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1051,6 +1067,14 @@
             "Value": {
                 "id": "43d4da04-91c0-4ddf-aee9-34c7f4a6768a",
                 "resourcePath": "objects\\obj_spot\\obj_spot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1b56225-c543-49b3-999e-2b273fdbac37",
+            "Value": {
+                "id": "30455b87-9d23-482c-89b3-d1e6b930a32c",
+                "resourcePath": "objects\\obj_alarm\\obj_alarm.yy",
                 "resourceType": "GMObject"
             }
         },
