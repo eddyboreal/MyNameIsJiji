@@ -991,6 +991,22 @@
             }
         },
         {
+            "Key": "d2c52f84-e7cb-496b-84d2-0df5dfa96f7d",
+            "Value": {
+                "id": "40dcc58d-0df1-43c2-a00b-2665cfa6a71c",
+                "resourcePath": "objects\\obj_metaSpotAnim\\obj_metaSpotAnim.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d3883311-6c03-4765-8fda-86fd2960a1a6",
+            "Value": {
+                "id": "b6732c42-c083-4f29-8028-f66b3f020192",
+                "resourcePath": "views\\d3883311-6c03-4765-8fda-86fd2960a1a6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d70e0570-5dcf-4ab6-ad83-a379658ee23c",
             "Value": {
                 "id": "293a1d89-cc63-4b7b-85e2-74ee4797fd35",
