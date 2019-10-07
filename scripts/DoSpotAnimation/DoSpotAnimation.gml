@@ -1,7 +1,6 @@
 /// @desc bool DoSpotAnimation(obj,spriteIndexToPut,startFrame,stopAtFrame,numberOfLoop,delayBetweenFrames)
 /// @arg obj
 /// @arg spriteIndexToPut
-/// @arg numberOfFrame
 /// @arg startFrame
 /// @arg stopAtFrame
 /// @arg numberOfLoop
@@ -20,9 +19,9 @@ with(argument0){
 	numberOfFrames = image_number;
 }
 
-while(loopsDone<argument5){	
+while(loopsDone<argument4){	
 	timer+=delta_time;
-	if(timer>(argument6*power(10,6))){
+	if(timer>(argument5*power(10,6))){
 		timer =0;
 		if(actualFrame<numberOfFrames-1){
 			actualFrame++;
