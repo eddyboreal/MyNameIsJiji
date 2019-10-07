@@ -1,6 +1,6 @@
 /// @description 
 image_index = 1;
-//audio_play_sound(snd_morse,1, false);
+audio_play_sound(snd_morse, 0.5, false);
 
 timer += delta_time; //temps passer en micro
 isHold = true;
