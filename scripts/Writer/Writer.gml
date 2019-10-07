@@ -1,14 +1,12 @@
-/// @desc string Writer(text,speed)
+/// @desc bool Writer(text,speed)
 /// @arg text
 /// @arg speed
 
-//show_debug_message(string_length(text_current));
-//show_debug_message(lenght);
+//letters = 0;
+show_debug_message(string_length(text_current));
+show_debug_message(string_length(argument0));
 
-text_current = "";
-letters = 0;
-
-while(string_length(text_current) < string_length(argument0))
+if(string_length(text_current) < string_length(argument0))
 {
 	letters += argument1;
 	text_current = string_copy(argument0, 1, floor(letters));
@@ -18,8 +16,14 @@ while(string_length(text_current) < string_length(argument0))
 		h = string_height(argument0);
 	}
 		w = string_width(text_current);
-		DrawText(text_current);
+		return false;
 }
+else
+{
+	show_debug_message("return true")
+	return true	;
+}
+
 
 //return text_current;
 	
