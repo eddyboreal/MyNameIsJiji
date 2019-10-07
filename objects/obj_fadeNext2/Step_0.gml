@@ -1,6 +1,7 @@
-if (obj_fish.x > room_width)
+if (obj_submarine.x > 200)
 {
-	a = clamp(a + (fade*0.025), 0,1);
+	audio_sound_gain(snd_title_screen, 0, 4000);
+	a = clamp(a + (fade*0.0025), 0,1);
 
 	if ( a == 1)
    	{
@@ -8,4 +9,4 @@ if (obj_fish.x > room_width)
 		room_goto_next();
 		fade = -1;
 	}
-}
+} 

@@ -5,7 +5,7 @@
     "name": "obj_submarine",
     "eventList": [
         {
-            "id": "8ce959f5-1f7d-4864-a9f1-89cbcb56eb77",
+            "id": "a357ea92-2c8c-4672-870c-b0e82dd69fdd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

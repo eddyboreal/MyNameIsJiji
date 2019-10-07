@@ -11,8 +11,8 @@
             "id": "9b231801-8c44-4081-8cb5-97979e268128",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 64,
-            "y": 960,
+            "x": 67,
+            "y": 1117,
             "speed": 100
         },
         {
@@ -20,7 +20,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 256,
-            "y": 896,
+            "y": 1056,
             "speed": 100
         },
         {
@@ -28,7 +28,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 480,
-            "y": 928,
+            "y": 1088,
             "speed": 100
         },
         {
@@ -36,7 +36,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 544,
-            "y": 928,
+            "y": 1088,
             "speed": 100
         },
         {
@@ -44,7 +44,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 544,
-            "y": 928,
+            "y": 1088,
             "speed": 100
         },
         {
@@ -52,7 +52,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 672,
-            "y": 960,
+            "y": 1088,
             "speed": 100
         },
         {
@@ -60,7 +60,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 544,
-            "y": 1024,
+            "y": 1184,
             "speed": 100
         },
         {
@@ -68,7 +68,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 256,
-            "y": 1024,
+            "y": 1184,
             "speed": 100
         },
         {
@@ -76,7 +76,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 64,
-            "y": 960,
+            "y": 1120,
             "speed": 100
         }
     ],
