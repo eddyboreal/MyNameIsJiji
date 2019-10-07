@@ -44,14 +44,20 @@ if (timerLettre <= 0 && !TransmissionDone)
 	if(ReadLetterOpti(TabCourtLong,tabSOS,ActualLetter)){
 		with(obj_spot){
 			sprite_index = spr_SpotMorseLettreOK;
-			 
 		}
 		/*
 		with(instance_find(obj_SpotLettre,ActualLetter)){
 			sprite_index = spr_SpotMorseMotsOK;
 		}*/
-		//DoSpotAnimation(obj_SpotLettre,)
-		if(ActualLetter<2){
+		//DoSpotAnimation(obj_SpotLettre,spr_SpotMorseMotsOK,0,1,2,200000);
+		with(obj_metaSpotAnim){
+			loopsDone = 0;
+			AnimateSpotMot = true;
+			AnimationMotStarted = false;
+			AnimationMotFinished = false;
+		}
+		/*
+				if(ActualLetter<2){
 			show_debug_message("On passe à la lettre suivante !");
 			ActualLetter++;
 		}
@@ -60,8 +66,7 @@ if (timerLettre <= 0 && !TransmissionDone)
 			ResetWordSpot();
 			show_debug_message("SOS !");
 			SOSDone = true;
-		}
-			
+		}*/
 	}
 	else{
 		with(obj_spot){
@@ -77,13 +82,21 @@ if(TransmissionDone && timerLettre <= 0 )
 	isHold = true;
 	timerLettre = 2;
 	if(ReadLetterOpti(TabCourtLong,tabJIJI,ActualLetter)){
-		with(obj_spot){
+		/*with(obj_spot){
 				sprite_index = spr_SpotMorseLettreOK;
 			}
 			with(instance_find(obj_SpotLettre,ActualLetter)){
 				sprite_index = spr_SpotMorseMotsOK;
-			}
-		if(ActualLetter<3){
+			}*/
+			
+		with(obj_metaSpotAnim){
+			loopsDone = 0;
+			AnimateSpotMot = true;
+			AnimationMotStarted = false;
+			AnimationMotFinished = false;
+		}
+		
+		/*if(ActualLetter<3){
 			show_debug_message("On passe à la lettre suivante !");
 			ActualLetter++;
 		}
@@ -91,7 +104,7 @@ if(TransmissionDone && timerLettre <= 0 )
 		{
 			show_debug_message("JIJI !");
 			IdDone = true;
-		}
+		}*/
 	}
 	else{
 		with(obj_spot){

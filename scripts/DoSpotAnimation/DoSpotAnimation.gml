@@ -1,45 +1,30 @@
-/// @desc bool DoSpotAnimation(obj,spriteIndexToPut,startFrame,stopAtFrame,numberOfLoop,delayBetweenFrames)
+/// @desc bool DoSpotAnimation(obj,numberOfLoop,delayBetweenFrames)
 /// @arg obj
-/// @arg spriteIndexToPut
-/// @arg numberOfFrame
-/// @arg startFrame
-/// @arg stopAtFrame
 /// @arg numberOfLoop
 /// @arg delayBetweenFrames
-
-
-
-loopsDone = 0;
-actualFrame = argument2;
-numberOfFrames = 0;
-timer = 0;
-
-with(argument0){
-	sprite_index = argument1;
-	image_index = actualFrame;
-	numberOfFrames = image_number;
-}
-
-while(loopsDone<argument5){	
+show_debug_message("Animating");
 	timer+=delta_time;
-	if(timer>(argument6*power(10,6))){
+	if(timer>(argument2*power(10,6))){
+		show_debug_message("timerPasted");
 		timer =0;
-		if(actualFrame<numberOfFrames-1){
+		if(actualFrame<=numberOfFrames){
 			actualFrame++;
-			with(argument0){
-				image_index = actualFrame;
+			with(instance_find(argument0,ActualLetter)){
+				image_index = 1;
 			}
+			show_debug_message("notEndLoop");
 		}
 		else{
 			actualFrame = 0;
-			with(argument0){
-				image_index = actualFrame;
+			with(instance_find(argument0,ActualLetter)){
+				image_index = 0;
 			}
 			loopsDone++;
-		}	
+			show_debug_message(loopsDone);
+		}
 	}
-}
-
-with(argument0){
-	image_index=argument3;
-}
+	if(loopsDone>=argument1){
+		show_debug_message("StopAnim");
+		AnimateSpotMot=false;
+		AnimationMotFinished = true;
+	}

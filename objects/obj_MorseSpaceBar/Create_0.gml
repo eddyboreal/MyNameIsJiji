@@ -1,6 +1,6 @@
 timer = 0;
 a=0;
-isHold = false;
+isHold = true;
 timerLettre = 2*power(10,6);
 PressCount = 0;
 TabCourtLong = array_create(6,-1);
