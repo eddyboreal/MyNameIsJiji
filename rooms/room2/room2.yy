@@ -32,15 +32,42 @@
         "405b7658-2219-4401-bbbc-815bd8948686",
         "0398f1bd-1c53-47ca-be0a-0d0c86f917ed",
         "c6180e3d-484c-42d1-8c79-126d40e90e78",
-        "e0513480-996d-4f7f-b5c4-9a93905d9708"
+        "e0513480-996d-4f7f-b5c4-9a93905d9708",
+        "5523e4a1-8273-4f8a-9440-8b89c1fc9f5e"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Music",
+            "id": "2e0eb8c1-f06d-4b1c-9da1-51542412e740",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_3D248438","id": "5523e4a1-8273-4f8a-9440-8b89c1fc9f5e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3D248438","objId": "5ea7c184-6531-4b6a-874c-05a0a54494d0","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 352,"y": 96}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "65c23437-8687-4d0c-bc52-3307a22eb3c7",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -66,7 +93,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Ordi",
             "id": "82313b4f-39b5-4b5a-9afd-c012f83e8cd1",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -116,7 +143,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances_1",
             "id": "dfcb53a7-aa80-4802-9990-d9fe0d60c87d",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -145,7 +172,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4289901234 },
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

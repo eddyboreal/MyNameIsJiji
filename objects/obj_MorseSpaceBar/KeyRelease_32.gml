@@ -1,5 +1,6 @@
 /// @description 
 image_index = 0;
+//audio_stop_sound(snd_morse);
 
 isHold = false;
 

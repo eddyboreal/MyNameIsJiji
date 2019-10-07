@@ -1,5 +1,4 @@
  /// @description
-
 if(SOSDone){
 	enable = false;
 	if(startWriting < 17){
