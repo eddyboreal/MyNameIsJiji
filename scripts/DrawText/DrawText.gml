@@ -6,7 +6,6 @@ var halfw = w *0.5;
 	draw_set_colour(c_white);
 	draw_set_alpha(1);
 	draw_roundrect_ext(x-halfw-border,y-h-(border*2),x+halfw+border,y, 15, 15, false);
-	draw_sprite (spr_marker, 0, x,y);
 	draw_set_alpha(1);
 	
 	//draw texte
