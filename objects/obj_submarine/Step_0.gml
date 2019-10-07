@@ -1,3 +1,3 @@
-if(obj_fish.out) {
-	x += 5;
+if(obj_fish.gone) {
+	x += 3;
 }

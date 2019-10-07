@@ -10,6 +10,7 @@ if (!place_meeting(x, y, obj_amecon) && hooked) {
 	speed = 0;
 	with(obj_scalingfish1) instance_destroy();
 	self.image_xscale = 1;
+	gone = true;
 	with (other) path_start(path_fish2, 2.5, path_action_continue, false);
 }
 
