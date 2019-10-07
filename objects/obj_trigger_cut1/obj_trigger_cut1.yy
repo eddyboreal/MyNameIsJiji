@@ -1,19 +1,10 @@
 {
-    "id": "f230e5a9-523b-4916-b5f3-74ad29435039",
+    "id": "450a5635-0e78-46c5-8708-018883f458a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_submarine",
+    "name": "obj_trigger_cut1",
     "eventList": [
-        {
-            "id": "a357ea92-2c8c-4672-870c-b0e82dd69fdd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "f230e5a9-523b-4916-b5f3-74ad29435039"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "76136a1a-dbe5-4776-8491-9f24d5a51278",
-    "visible": true
+    "spriteId": "028b4521-6ab9-4fcd-a6c8-4eb0128e5bdf",
+    "visible": false
 }
