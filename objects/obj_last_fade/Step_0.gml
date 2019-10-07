@@ -1,5 +1,7 @@
 if (obj_rosalie_room21.fell)
 {
+	audio_sound_gain(snd_alarm, 0, 4000);
+	audio_sound_gain(snd_MusicSubMarin, 0, 4000);
 	a = clamp(a + (fade*0.005), 0,1);
 
 	if ( a == 1)
