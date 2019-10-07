@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "4961548a-e009-49e4-bbbe-74a376c56dba",
+            "Value": {
+                "id": "5d5d637c-a848-411f-b6c1-24ede4240018",
+                "resourcePath": "sounds\\snd_fishing\\snd_fishing.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "49cdcf43-4de0-4c67-8a68-c873016abcd1",
             "Value": {
                 "id": "f5c46b85-655b-4af7-83c9-e1bcccbb5c88",

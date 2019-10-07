@@ -5,6 +5,7 @@ if(ActualState==1){
 		if(timeStacked>0.3){
 			timeStacked = 0;
 			self.image_yscale -=0.3;
+			audio_play_sound(snd_fishing, 1, false);
 		}
 	}
 	else{

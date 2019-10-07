@@ -24,6 +24,8 @@ if(AnimationMotFinished){
 			}
 			else
 			{
+						audio_play_sound(snd_tracking, 1, false);
+
 				ResetWordSpot();
 				show_debug_message("SOS !");
 				SOSDone = true;
@@ -46,6 +48,7 @@ if(AnimationMotFinished){
 if(AnimateBigSpot){
 	if(!AnimationBigSpotStarted){
 		AnimationBigSpotStarted = true;
+		audio_play_sound(snd_wrong, 1, false);
 		with(obj_spot){
 			show_debug_message("changed sprite to NO");
 			sprite_index = spr_SpotMorseLettreNO;
