@@ -1,5 +1,6 @@
  /// @description
 if(SOSDone){
+	enable = false;
 	if(startWriting < 17){
 		if(writingTimer > 0.5*power(10,6)){
 			writingTimer = 0;
@@ -23,7 +24,9 @@ if(SOSDone){
 	else{
 		show_debug_message("Transmission Over");
 		SOSDone = false;
+		enable = true;
 		TransmissionDone = true;
+		ActualLetter = 0;
 	}
 }
 
@@ -32,7 +35,8 @@ if (!isHold)
 {
 	timerLettre -= delta_time;
 }
-if (timerLettre <= 0)
+
+if (timerLettre <= 0 && !TransmissionDone)
 {
 	isHold = true;
 	timerLettre = 2;
@@ -44,6 +48,7 @@ if (timerLettre <= 0)
 		}
 		else
 		{
+			show_debug_message("SOS !");
 			SOSDone = true;
 		}
 			
@@ -54,9 +59,20 @@ if (timerLettre <= 0)
 		
 }
 
-if(TransmissionDone)
+if(TransmissionDone && timerLettre <= 0 )
 {
-	
-		
+	isHold = true;
+	timerLettre = 2;
+	if(ReadLetterOpti(TabCourtLong,tabJIJI,ActualLetter)){
+		if(ActualLetter<3){
+			show_debug_message("On passe à la lettre suivante !");
+			ActualLetter++;
+		}
+		else
+		{
+			show_debug_message("JIJI !");
+			IdDone = true;
+		}
+	}
 }
 

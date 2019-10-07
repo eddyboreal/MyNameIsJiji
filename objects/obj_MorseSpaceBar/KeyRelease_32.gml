@@ -2,7 +2,7 @@
 
 isHold = false;
 
-if(PressCount<(array_length_1d(TabCourtLong)))
+if(PressCount<(array_length_1d(TabCourtLong)) && enable)
 {
 	if(timer < 0.3*power(10,6))
 	{
