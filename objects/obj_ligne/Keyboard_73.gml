@@ -1,4 +1,4 @@
-if(obj_view1.startGame)
+if(obj_view1.startGame && !obj_fish.gone)
 {
 	Animating = true;
 	//increase fishing line height (modifying his scale)
