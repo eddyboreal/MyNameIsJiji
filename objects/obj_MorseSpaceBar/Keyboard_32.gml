@@ -1,4 +1,5 @@
 /// @description 
+image_index = 1;
 
 timer += delta_time; //temps passer en micro
 isHold = true;
