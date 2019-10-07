@@ -6,44 +6,88 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
-    "bbox_bottom": 18,
-    "bbox_left": 6,
-    "bbox_right": 25,
-    "bbox_top": 6,
+    "bbox_bottom": 15,
+    "bbox_left": 0,
+    "bbox_right": 15,
+    "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "ac09eeef-3a22-40da-84b2-ff4afe336dcf",
+            "id": "18a6f428-9f01-4f87-a4c9-5bbdc8367002",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "893dd573-a874-4bb7-befc-02c75bef8c50",
             "compositeImage": {
-                "id": "9e02ad36-ee97-4e61-98dc-7fa00f890a2e",
+                "id": "9aaa316f-ff6c-4a56-aea1-759760458457",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "ac09eeef-3a22-40da-84b2-ff4afe336dcf",
+                "FrameId": "18a6f428-9f01-4f87-a4c9-5bbdc8367002",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "a3e1643e-bc2f-4e94-beb1-6184e6284c6e",
+                    "id": "57041cfa-0386-49ac-88e3-d1311cd5f0ef",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "ac09eeef-3a22-40da-84b2-ff4afe336dcf",
-                    "LayerId": "b594d04b-e496-4bd2-8e7f-1ca84c603b2f"
+                    "FrameId": "18a6f428-9f01-4f87-a4c9-5bbdc8367002",
+                    "LayerId": "3db774e3-aad8-4758-b26f-6f2d31c0f977"
+                }
+            ]
+        },
+        {
+            "id": "f3913e67-734f-46b2-85ef-cde8a4467b5c",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "893dd573-a874-4bb7-befc-02c75bef8c50",
+            "compositeImage": {
+                "id": "4964d0e4-a264-46b6-92c9-930ea2c42917",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "f3913e67-734f-46b2-85ef-cde8a4467b5c",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "8f5d6489-4220-4839-bcb6-c8881f158fd4",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "f3913e67-734f-46b2-85ef-cde8a4467b5c",
+                    "LayerId": "3db774e3-aad8-4758-b26f-6f2d31c0f977"
+                }
+            ]
+        },
+        {
+            "id": "ae3f6cca-69d9-4c22-9178-dd7b4b5d8a3e",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "893dd573-a874-4bb7-befc-02c75bef8c50",
+            "compositeImage": {
+                "id": "00d05e13-001e-42ae-9ba4-43b89c4a3118",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "ae3f6cca-69d9-4c22-9178-dd7b4b5d8a3e",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "a7bd6282-69b2-4165-aeef-2f8e1eb99445",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "ae3f6cca-69d9-4c22-9178-dd7b4b5d8a3e",
+                    "LayerId": "3db774e3-aad8-4758-b26f-6f2d31c0f977"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 32,
+    "height": 16,
     "layers": [
         {
-            "id": "b594d04b-e496-4bd2-8e7f-1ca84c603b2f",
+            "id": "3db774e3-aad8-4758-b26f-6f2d31c0f977",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "893dd573-a874-4bb7-befc-02c75bef8c50",
@@ -64,7 +108,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 32,
-    "xorig": 16,
-    "yorig": 16
+    "width": 16,
+    "xorig": 8,
+    "yorig": 8
 }
