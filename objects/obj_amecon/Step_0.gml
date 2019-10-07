@@ -4,7 +4,7 @@ if(obj_view1.startGame)
 {
 	if(obj_ligne.AnimationFinished){
 		if(WillBeOnTheLigne && !isOnTheLigne){
-				TeleportObjectToAnother(self,obj_ligne,0,0);
+				TeleportObjectToAnother(self,obj_ligne,-1, 350);
 				isOnTheLigne = true;
 				obj_ligne.Animating = false;
 		}
