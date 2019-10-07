@@ -1,8 +1,8 @@
 {
-    "id": "7d96ed48-93bb-49cb-a775-9c6380682a1a",
+    "id": "61f9adbc-184c-4d6d-a362-6eb0fea1bbf7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_MorseCourt",
+    "name": "obj_AfficheMorse1",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "97d69f06-95de-4630-94c3-6d4d6db49f7c",
+    "spriteId": "83f5f38e-9927-41e9-af3f-83bd1bbb80bb",
     "visible": true
 }
