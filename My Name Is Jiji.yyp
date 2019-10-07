@@ -911,6 +911,14 @@
             }
         },
         {
+            "Key": "d000716d-457b-489e-bbb2-1713fd2b5b91",
+            "Value": {
+                "id": "c20cb6db-7062-4588-bc17-06a68cc73858",
+                "resourcePath": "scripts\\DoSpotAnimation\\DoSpotAnimation.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d14eaa0b-aa40-4318-ba9d-0d872f9849ed",
             "Value": {
                 "id": "82a16865-8b26-4ea1-aa70-b041c4f410b0",
@@ -1112,7 +1120,8 @@
         "07dafda7-0515-4bf8-9b97-7a6119eeeb82",
         "8edb3b42-309e-4a2c-861b-3a249bc4d501",
         "2109e296-fea8-4f82-8e02-4651c1452c5f",
-        "df1b9905-8667-4d28-a117-69d0b410e2c6"
+        "df1b9905-8667-4d28-a117-69d0b410e2c6",
+        "d000716d-457b-489e-bbb2-1713fd2b5b91"
     ],
     "tutorial": ""
 }

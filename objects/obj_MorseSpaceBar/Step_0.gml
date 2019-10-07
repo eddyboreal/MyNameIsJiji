@@ -43,10 +43,13 @@ if (timerLettre <= 0 && !TransmissionDone)
 	if(ReadLetterOpti(TabCourtLong,tabSOS,ActualLetter)){
 		with(obj_spot){
 			sprite_index = spr_SpotMorseLettreOK;
+			 
 		}
+		/*
 		with(instance_find(obj_SpotLettre,ActualLetter)){
 			sprite_index = spr_SpotMorseMotsOK;
-		}
+		}*/
+		//DoSpotAnimation(obj_SpotLettre,)
 		if(ActualLetter<2){
 			show_debug_message("On passe à la lettre suivante !");
 			ActualLetter++;
