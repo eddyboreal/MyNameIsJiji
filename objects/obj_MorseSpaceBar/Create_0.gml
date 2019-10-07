@@ -1,6 +1,6 @@
 timer = 0;
 a=0;
-isHold = true;
+isHold = false;
 timerLettre = 2*power(10,6);
 PressCount = 0;
 TabCourtLong = array_create(6,-1);
@@ -32,3 +32,6 @@ startWriting = 6;
 TransmissionDone = false;
 
 enable = true;
+
+image_speed = 0;
+image_index = 0;

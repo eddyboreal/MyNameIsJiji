@@ -1,4 +1,5 @@
 /// @description 
+image_index = 0;
 
 isHold = false;
 
