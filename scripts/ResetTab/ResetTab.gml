@@ -9,7 +9,7 @@ for(i=0;i<=array_length_1d(argument0)-1;i++)
 	argument0[i] = -1;
 }
 
-for(j=0;j<=18;j++)
+for(j=0;j<=5;j++)
 {
 	with(instance_find(obj_AfficheMorse1,j)){
 		sprite_index = spr_empty;

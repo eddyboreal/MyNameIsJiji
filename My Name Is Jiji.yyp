@@ -487,14 +487,6 @@
             }
         },
         {
-            "Key": "7d96ed48-93bb-49cb-a775-9c6380682a1a",
-            "Value": {
-                "id": "d54849b4-cd77-4335-a7d2-908474cdfab5",
-                "resourcePath": "objects\\obj_MorseCourt\\obj_MorseCourt.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "81c031fb-72d3-4c0e-be12-a7dc2b83d623",
             "Value": {
                 "id": "a8eaffd9-b865-4e22-b2c8-2764d6e61733",
@@ -579,14 +571,6 @@
             "Value": {
                 "id": "75176642-9e28-41eb-91e9-7616c7828941",
                 "resourcePath": "objects\\obj_bait\\obj_bait.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "964c4735-bec4-42a2-8182-f13900c72c33",
-            "Value": {
-                "id": "bce456b0-246f-4099-aea5-1a1a3605fcd2",
-                "resourcePath": "objects\\obj_MorseLong\\obj_MorseLong.yy",
                 "resourceType": "GMObject"
             }
         },
